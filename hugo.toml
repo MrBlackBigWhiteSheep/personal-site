@@ -10,14 +10,20 @@ theme = "hugo-PaperMod"
   tocOpen = false
   siteDescription = "Personal website for PhD learning notes, projects, and knowledge management"
 
-# Social links
-[[params.socialIcons]]
-  name = "github"
-  url = "https://github.com/MrBlackBigWhiteSheep"
+  # Profile Mode Settings
+  homeInfoParams = {
+    Title = "MrBlackBigWhiteSheep",
+    Content = "PhD candidate | Research interests in ML/NLP | Learning in public"
+  }
 
-[[params.socialIcons]]
-  name = "email"
-  url = "mailto:your@email.com"
+  # Social links
+  [[params.socialIcons]]
+    name = "Github"
+    url = "https://github.com/MrBlackBigWhiteSheep"
+
+  [[params.socialIcons]]
+    name = "Mail"
+    url = "mailto:your@email.com"
 
 # Menu
 [[menu.main]]
