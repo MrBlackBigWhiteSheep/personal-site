@@ -1,0 +1,55 @@
+baseURL = "https://yourusername.github.io/"
+locale = "zh-CN"
+title = "Your Name | Personal Site"
+theme = "hugo-PaperMod"
+
+# Enable dark mode
+[params]
+  defaultTheme = "auto"
+  showtoc = true
+  tocOpen = false
+  siteDescription = "Personal website for learning notes, projects, and more"
+
+# Social links
+[[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/yourusername"
+
+[[params.socialIcons]]
+  name = "email"
+  url = "mailto:your@email.com"
+
+# Menu
+[[menu.main]]
+  identifier = "posts"
+  name = "Posts"
+  url = "/posts/"
+  weight = 1
+
+[[menu.main]]
+  identifier = "projects"
+  name = "Projects"
+  url = "/projects/"
+  weight = 2
+
+[[menu.main]]
+  identifier = "notes"
+  name = "Notes"
+  url = "/notes/"
+  weight = 3
+
+[[menu.main]]
+  identifier = "about"
+  name = "About"
+  url = "/about/"
+  weight = 4
+
+# Build
+buildDrafts = false
+buildFuture = false
+
+# Permalinks
+[permalinks]
+  posts = "/posts/:year/:slug/"
+  projects = "/projects/:slug/"
+  notes = "/notes/:slug/"
