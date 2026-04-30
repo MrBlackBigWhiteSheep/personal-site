@@ -6,6 +6,7 @@ theme = "hugo-PaperMod"
 # Enable dark mode
 [params]
   defaultTheme = "auto"
+  HomeInfoMode = true
   showtoc = true
   tocOpen = false
   siteDescription = "Personal website for PhD learning notes, projects, and knowledge management"
