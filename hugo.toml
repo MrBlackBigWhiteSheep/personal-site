@@ -1,6 +1,6 @@
-baseURL = "https://yourusername.github.io/"
+baseURL = "https://mrblackbigwhitesheep.github.io/"
 locale = "zh-CN"
-title = "Your Name | Personal Site"
+title = "MrBlackBigWhiteSheep | Personal Site"
 theme = "hugo-PaperMod"
 
 # Enable dark mode
@@ -8,12 +8,12 @@ theme = "hugo-PaperMod"
   defaultTheme = "auto"
   showtoc = true
   tocOpen = false
-  siteDescription = "Personal website for learning notes, projects, and more"
+  siteDescription = "Personal website for PhD learning notes, projects, and knowledge management"
 
 # Social links
 [[params.socialIcons]]
   name = "github"
-  url = "https://github.com/yourusername"
+  url = "https://github.com/MrBlackBigWhiteSheep"
 
 [[params.socialIcons]]
   name = "email"
