@@ -11,13 +11,11 @@ theme = "hugo-PaperMod"
   tocOpen = false
   siteDescription = "Personal website for PhD learning notes, projects, and knowledge management"
 
-  # Profile Mode Settings
-  homeInfoParams = {
-    Title = "MrBlackBigWhiteSheep",
-    Content = "PhD candidate | Research interests in ML/NLP | Learning in public"
-  }
+[params.homeInfoParams]
+  Title = "MrBlackBigWhiteSheep"
+  Content = "PhD candidate | Research interests in ML/NLP | Learning in public"
 
-  # Social links
+# Social links
   [[params.socialIcons]]
     name = "Github"
     url = "https://github.com/MrBlackBigWhiteSheep"
