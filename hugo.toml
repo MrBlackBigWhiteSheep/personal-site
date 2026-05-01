@@ -16,13 +16,13 @@ theme = "hugo-PaperMod"
   Content = "PhD candidate | Research interests in ML/NLP | Learning in public"
 
 # Social links
-  [[params.socialIcons]]
-    name = "Github"
-    url = "https://github.com/MrBlackBigWhiteSheep"
+[[params.socialIcons]]
+  name = "Github"
+  url = "https://github.com/MrBlackBigWhiteSheep"
 
-  [[params.socialIcons]]
-    name = "Mail"
-    url = "mailto:your@email.com"
+[[params.socialIcons]]
+  name = "Mail"
+  url = "mailto:your@email.com"
 
 # Menu
 [[menu.main]]
