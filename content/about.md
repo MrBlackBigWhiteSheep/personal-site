@@ -5,33 +5,41 @@ draft: false
 layout: "single"
 ---
 
-# About Me
+## Hi, I'm MrBlackBigWhiteSheep
 
-Welcome to my personal website! This site is dedicated to documenting my PhD journey, sharing learning notes, and showcasing projects.
+I'm a PhD candidate passionate about machine learning and natural language processing. I believe in learning in public and sharing knowledge with the community.
 
-## Education
+## What I Do
 
-- **PhD in [Your Field]**, [University], [Year] - Present
+- **Research**: Exploring the frontiers of ML/NLP
+- **Build**: Turning research into practical tools
+- **Share**: Writing about what I learn along the way
 
 ## Research Interests
 
-- Research Interest 1
-- Research Interest 2
-- Research Interest 3
+- Natural Language Processing
+- Machine Learning Systems
+- Knowledge Representation
+- Deep Learning Architectures
 
-## About This Site
+## Education
 
-This website serves as:
+- **PhD in Computer Science** - [Your University] (2023 - Present)
+- **BSc in Computer Science** - [Your University] (2019 - 2023)
 
-- **Learning Notes**: Documenting insights from papers, courses, and experiments
-- **Project Showcase**: Demonstrating my work and contributions
-- **Knowledge Base**: Building a personal knowledge management system
+## This Website
 
-## Contact
+This site is my digital garden where I:
 
+- Document insights from papers, courses, and experiments
+- Showcase projects and technical work
+- Build a personal knowledge base
+
+## Let's Connect
+
+- **GitHub**: [MrBlackBigWhiteSheep](https://github.com/MrBlackBigWhiteSheep)
 - **Email**: [your@email.com](mailto:your@email.com)
-- **GitHub**: [yourusername](https://github.com/yourusername)
 
 ---
 
-*Last updated: 2026-04-30*
+*Last updated: April 2026*

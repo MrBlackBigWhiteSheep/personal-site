@@ -13,7 +13,7 @@ theme = "hugo-PaperMod"
 
 [params.homeInfoParams]
   Title = "MrBlackBigWhiteSheep"
-  Content = "PhD candidate | Research interests in ML/NLP | Learning in public"
+  Content = "PhD candidate passionate about ML/NLP. Learning in public, one paper at a time."
 
 # Social links
 [[params.socialIcons]]
